@@ -1,4 +1,4 @@
-# 머신러닝 과제 4
+# 머신러닝 실습 4
 
 ## 1. Practice_4_1.ipynb
 	사이킷런(sklearn)을 활용하지 않고 시그모이드 함수(sigmoid function) 구현
